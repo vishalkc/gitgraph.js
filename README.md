@@ -1,5 +1,5 @@
 ![gitgraph.js](/assets/logo/gitgraph-logo.png)
-
+Test
 [![Build Status](https://secure.travis-ci.org/nicoespeon/gitgraph.js.png)](http://travis-ci.org/nicoespeon/gitgraph.js)
 ===========
 
